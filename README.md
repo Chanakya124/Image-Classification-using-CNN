@@ -1,0 +1,1 @@
+This project implements image classification using Convolutional Neural Networks (CNNs) to categorize images into predefined classes. The model is trained on labeled datasets, leveraging CNN layers for feature extraction and classification, achieving high accuracy in recognizing patterns in images.
